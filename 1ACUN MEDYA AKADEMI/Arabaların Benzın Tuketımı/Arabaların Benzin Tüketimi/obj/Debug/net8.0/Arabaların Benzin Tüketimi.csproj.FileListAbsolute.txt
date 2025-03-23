@@ -1,0 +1,14 @@
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\bin\Debug\net8.0\Arabaların Benzin Tüketimi.exe
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\bin\Debug\net8.0\Arabaların Benzin Tüketimi.deps.json
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\bin\Debug\net8.0\Arabaların Benzin Tüketimi.runtimeconfig.json
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\bin\Debug\net8.0\Arabaların Benzin Tüketimi.dll
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\bin\Debug\net8.0\Arabaların Benzin Tüketimi.pdb
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\obj\Debug\net8.0\Arabaların Benzin Tüketimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\obj\Debug\net8.0\Arabaların Benzin Tüketimi.AssemblyInfoInputs.cache
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\obj\Debug\net8.0\Arabaların Benzin Tüketimi.AssemblyInfo.cs
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\obj\Debug\net8.0\Arabaların Benzin Tüketimi.csproj.CoreCompileInputs.cache
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\obj\Debug\net8.0\Arabaların Benzin Tüketimi.dll
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\obj\Debug\net8.0\refint\Arabaların Benzin Tüketimi.dll
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\obj\Debug\net8.0\Arabaların Benzin Tüketimi.pdb
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\obj\Debug\net8.0\Arabaların Benzin Tüketimi.genruntimeconfig.cache
+C:\Users\Şükrü\source\repos\Arabaların Benzin Tüketimi\Arabaların Benzin Tüketimi\obj\Debug\net8.0\ref\Arabaların Benzin Tüketimi.dll

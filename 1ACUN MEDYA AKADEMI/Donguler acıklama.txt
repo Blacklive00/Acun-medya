@@ -1,0 +1,12 @@
+3. Ödev: Döngüler (Araştırma Konusu)
+While Döngüsü:
+
+Koşulu önce kontrol eder, doğruysa çalışır.
+
+Eğer koşul baştan yanlışsa, hiç çalışmaz.
+
+Do-While Döngüsü:
+
+Önce işlemi yapar, sonra koşulu kontrol eder.
+
+Koşul yanlış bile olsa en az bir kere çalışır.

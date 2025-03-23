@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u015E\u00FCkr\u00FC\\source\\repos\\Arabalar\u0131n Benzin T\u00FCketimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9371DD3-FD13-42B8-BB3E-8E11C987913D}|Arabalar\u0131n Benzin T\u00FCketimi\\Arabalar\u0131n Benzin T\u00FCketimi.csproj|c:\\users\\\u015F\u00FCkr\u00FC\\source\\repos\\arabalar\u0131n benzin t\u00FCketimi\\arabalar\u0131n benzin t\u00FCketimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9371DD3-FD13-42B8-BB3E-8E11C987913D}|Arabalar\u0131n Benzin T\u00FCketimi\\Arabalar\u0131n Benzin T\u00FCketimi.csproj|solutionrelative:arabalar\u0131n benzin t\u00FCketimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9371DD3-FD13-42B8-BB3E-8E11C987913D}|Arabalar\u0131n Benzin T\u00FCketimi\\Arabalar\u0131n Benzin T\u00FCketimi.csproj|c:\\users\\\u015F\u00FCkr\u00FC\\source\\repos\\arabalar\u0131n benzin t\u00FCketimi\\arabalar\u0131n benzin t\u00FCketimi\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9371DD3-FD13-42B8-BB3E-8E11C987913D}|Arabalar\u0131n Benzin T\u00FCketimi\\Arabalar\u0131n Benzin T\u00FCketimi.csproj|solutionrelative:arabalar\u0131n benzin t\u00FCketimi\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\\u015E\u00FCkr\u00FC\\source\\repos\\Arabalar\u0131n Benzin T\u00FCketimi\\Arabalar\u0131n Benzin T\u00FCketimi\\Araba.cs",
+              "RelativeDocumentMoniker": "Arabalar\u0131n Benzin T\u00FCketimi\\Araba.cs",
+              "ToolTip": "C:\\Users\\\u015E\u00FCkr\u00FC\\source\\repos\\Arabalar\u0131n Benzin T\u00FCketimi\\Arabalar\u0131n Benzin T\u00FCketimi\\Araba.cs",
+              "RelativeToolTip": "Arabalar\u0131n Benzin T\u00FCketimi\\Araba.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T23:02:20.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u015E\u00FCkr\u00FC\\source\\repos\\Arabalar\u0131n Benzin T\u00FCketimi\\Arabalar\u0131n Benzin T\u00FCketimi\\Program.cs",
+              "RelativeDocumentMoniker": "Arabalar\u0131n Benzin T\u00FCketimi\\Program.cs",
+              "ToolTip": "C:\\Users\\\u015E\u00FCkr\u00FC\\source\\repos\\Arabalar\u0131n Benzin T\u00FCketimi\\Arabalar\u0131n Benzin T\u00FCketimi\\Program.cs",
+              "RelativeToolTip": "Arabalar\u0131n Benzin T\u00FCketimi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T23:01:39.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

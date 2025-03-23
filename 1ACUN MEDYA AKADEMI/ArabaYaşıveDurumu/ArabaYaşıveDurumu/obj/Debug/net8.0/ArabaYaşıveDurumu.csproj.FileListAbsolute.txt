@@ -1,0 +1,14 @@
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\bin\Debug\net8.0\ArabaYaşıveDurumu.exe
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\bin\Debug\net8.0\ArabaYaşıveDurumu.deps.json
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\bin\Debug\net8.0\ArabaYaşıveDurumu.runtimeconfig.json
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\bin\Debug\net8.0\ArabaYaşıveDurumu.dll
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\bin\Debug\net8.0\ArabaYaşıveDurumu.pdb
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\obj\Debug\net8.0\ArabaYaşıveDurumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\obj\Debug\net8.0\ArabaYaşıveDurumu.AssemblyInfoInputs.cache
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\obj\Debug\net8.0\ArabaYaşıveDurumu.AssemblyInfo.cs
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\obj\Debug\net8.0\ArabaYaşıveDurumu.csproj.CoreCompileInputs.cache
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\obj\Debug\net8.0\ArabaYaşıveDurumu.dll
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\obj\Debug\net8.0\refint\ArabaYaşıveDurumu.dll
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\obj\Debug\net8.0\ArabaYaşıveDurumu.pdb
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\obj\Debug\net8.0\ArabaYaşıveDurumu.genruntimeconfig.cache
+C:\Users\Şükrü\source\repos\ArabaYaşıveDurumu\ArabaYaşıveDurumu\obj\Debug\net8.0\ref\ArabaYaşıveDurumu.dll

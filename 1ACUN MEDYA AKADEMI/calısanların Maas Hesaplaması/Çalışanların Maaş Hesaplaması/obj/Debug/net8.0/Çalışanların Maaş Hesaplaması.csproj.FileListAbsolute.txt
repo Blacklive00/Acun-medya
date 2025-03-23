@@ -1,0 +1,14 @@
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\bin\Debug\net8.0\Çalışanların Maaş Hesaplaması.exe
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\bin\Debug\net8.0\Çalışanların Maaş Hesaplaması.deps.json
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\bin\Debug\net8.0\Çalışanların Maaş Hesaplaması.runtimeconfig.json
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\bin\Debug\net8.0\Çalışanların Maaş Hesaplaması.dll
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\bin\Debug\net8.0\Çalışanların Maaş Hesaplaması.pdb
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\obj\Debug\net8.0\Çalışanların Maaş Hesaplaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\obj\Debug\net8.0\Çalışanların Maaş Hesaplaması.AssemblyInfoInputs.cache
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\obj\Debug\net8.0\Çalışanların Maaş Hesaplaması.AssemblyInfo.cs
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\obj\Debug\net8.0\Çalışanların Maaş Hesaplaması.csproj.CoreCompileInputs.cache
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\obj\Debug\net8.0\Çalışanların Maaş Hesaplaması.dll
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\obj\Debug\net8.0\refint\Çalışanların Maaş Hesaplaması.dll
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\obj\Debug\net8.0\Çalışanların Maaş Hesaplaması.pdb
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\obj\Debug\net8.0\Çalışanların Maaş Hesaplaması.genruntimeconfig.cache
+C:\Users\Şükrü\source\repos\Çalışanların Maaş Hesaplaması\Çalışanların Maaş Hesaplaması\obj\Debug\net8.0\ref\Çalışanların Maaş Hesaplaması.dll

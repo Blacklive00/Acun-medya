@@ -1,0 +1,14 @@
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\bin\Debug\net8.0\acunmedya_1.exe
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\bin\Debug\net8.0\acunmedya_1.deps.json
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\bin\Debug\net8.0\acunmedya_1.runtimeconfig.json
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\bin\Debug\net8.0\acunmedya_1.dll
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\bin\Debug\net8.0\acunmedya_1.pdb
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\obj\Debug\net8.0\acunmedya_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\obj\Debug\net8.0\acunmedya_1.AssemblyInfoInputs.cache
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\obj\Debug\net8.0\acunmedya_1.AssemblyInfo.cs
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\obj\Debug\net8.0\acunmedya_1.csproj.CoreCompileInputs.cache
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\obj\Debug\net8.0\acunmedya_1.dll
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\obj\Debug\net8.0\refint\acunmedya_1.dll
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\obj\Debug\net8.0\acunmedya_1.pdb
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\obj\Debug\net8.0\acunmedya_1.genruntimeconfig.cache
+C:\Users\Şükrü\source\repos\acunmedya_1\acunmedya_1\obj\Debug\net8.0\ref\acunmedya_1.dll

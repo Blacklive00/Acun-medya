@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u015E\u00FCkr\u00FC\\source\\repos\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E51ABE-CCD8-4D67-816C-7D2FE4F64331}|\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131.csproj|c:\\users\\\u015F\u00FCkr\u00FC\\source\\repos\\\u00E7al\u0131\u015Fanlar\u0131n maa\u015F hesaplamas\u0131\\\u00E7al\u0131\u015Fanlar\u0131n maa\u015F hesaplamas\u0131\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E51ABE-CCD8-4D67-816C-7D2FE4F64331}|\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131.csproj|solutionrelative:\u00E7al\u0131\u015Fanlar\u0131n maa\u015F hesaplamas\u0131\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E51ABE-CCD8-4D67-816C-7D2FE4F64331}|\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131.csproj|c:\\users\\\u015F\u00FCkr\u00FC\\source\\repos\\\u00E7al\u0131\u015Fanlar\u0131n maa\u015F hesaplamas\u0131\\\u00E7al\u0131\u015Fanlar\u0131n maa\u015F hesaplamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E51ABE-CCD8-4D67-816C-7D2FE4F64331}|\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131.csproj|solutionrelative:\u00E7al\u0131\u015Fanlar\u0131n maa\u015F hesaplamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\\u015E\u00FCkr\u00FC\\source\\repos\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\Calisan.cs",
+              "RelativeDocumentMoniker": "\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\Calisan.cs",
+              "ToolTip": "C:\\Users\\\u015E\u00FCkr\u00FC\\source\\repos\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\Calisan.cs",
+              "RelativeToolTip": "\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\Calisan.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:44:05.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u015E\u00FCkr\u00FC\\source\\repos\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\\u015E\u00FCkr\u00FC\\source\\repos\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\Program.cs",
+              "RelativeToolTip": "\u00C7al\u0131\u015Fanlar\u0131n Maa\u015F Hesaplamas\u0131\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:42:48.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

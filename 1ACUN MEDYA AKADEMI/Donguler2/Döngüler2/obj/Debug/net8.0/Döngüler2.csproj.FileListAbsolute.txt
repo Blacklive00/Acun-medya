@@ -1,0 +1,14 @@
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\bin\Debug\net8.0\Döngüler2.exe
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\bin\Debug\net8.0\Döngüler2.deps.json
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\bin\Debug\net8.0\Döngüler2.runtimeconfig.json
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\bin\Debug\net8.0\Döngüler2.dll
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\bin\Debug\net8.0\Döngüler2.pdb
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\obj\Debug\net8.0\Döngüler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\obj\Debug\net8.0\Döngüler2.AssemblyInfoInputs.cache
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\obj\Debug\net8.0\Döngüler2.AssemblyInfo.cs
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\obj\Debug\net8.0\Döngüler2.csproj.CoreCompileInputs.cache
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\obj\Debug\net8.0\Döngüler2.dll
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\obj\Debug\net8.0\refint\Döngüler2.dll
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\obj\Debug\net8.0\Döngüler2.pdb
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\obj\Debug\net8.0\Döngüler2.genruntimeconfig.cache
+C:\Users\Şükrü\source\repos\Döngüler2\Döngüler2\obj\Debug\net8.0\ref\Döngüler2.dll
