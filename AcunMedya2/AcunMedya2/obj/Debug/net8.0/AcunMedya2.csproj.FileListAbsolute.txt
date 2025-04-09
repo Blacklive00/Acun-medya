@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\bin\Debug\net8.0\AcunMedya2.exe
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\bin\Debug\net8.0\AcunMedya2.deps.json
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\bin\Debug\net8.0\AcunMedya2.runtimeconfig.json
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\bin\Debug\net8.0\AcunMedya2.dll
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\bin\Debug\net8.0\AcunMedya2.pdb
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\obj\Debug\net8.0\AcunMedya2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\obj\Debug\net8.0\AcunMedya2.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\obj\Debug\net8.0\AcunMedya2.AssemblyInfo.cs
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\obj\Debug\net8.0\AcunMedya2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\obj\Debug\net8.0\AcunMedya2.sourcelink.json
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\obj\Debug\net8.0\AcunMedya2.dll
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\obj\Debug\net8.0\refint\AcunMedya2.dll
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\obj\Debug\net8.0\AcunMedya2.pdb
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\obj\Debug\net8.0\AcunMedya2.genruntimeconfig.cache
+C:\Users\asus\Documents\GitHub\Acun-medya\AcunMedya2\AcunMedya2\obj\Debug\net8.0\ref\AcunMedya2.dll
